@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Luis Aguilar 
 
-<!--
-**aguilarluisg-tech/aguilarluisg-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in technology, AI tools, and building practical software solutions.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- APIs
+- Git
+- AI tools
+- Troubleshooting systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Chatbot with OpenAI API
+- Semantic Search using embeddings
+- Python JSON Phonebook
+- AI Pet Shop OrderBot
